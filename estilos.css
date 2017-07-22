@@ -10,3 +10,14 @@ body{
 
 	color: white;
 }
+
+.pceroImg{
+	border: 1px solid black;
+}
+
+.descripcion{
+
+	margin-top: 10px;
+	font-size: 1.2em;
+	color: white;
+}
