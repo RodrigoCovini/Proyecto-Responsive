@@ -1,4 +1,12 @@
-#pageTitle{
+.navbar-inverse .navbar-brand{
+	color: white;
+}
 
-	
+body{
+	background-color: #F04034;
+}
+
+.pageTitle{
+
+	color: white;
 }
