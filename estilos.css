@@ -21,3 +21,25 @@ body{
 	font-size: 1.4em;
 	color: white;
 }
+
+.botonJugar{
+
+	text-align: center;
+}
+
+.footer{
+
+	background-color: #333;
+}
+
+.col1{
+	background-color: #333;
+}
+
+#navBottom{
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	margin: 0px;
+	border-radius: 0px;
+}
