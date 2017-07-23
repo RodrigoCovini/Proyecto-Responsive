@@ -1,6 +1,9 @@
 .navbar-inverse .navbar-brand{
 	color: white;
 }
+#navTop{
+	border-radius: 0px;
+}
 
 body{
 	background-color: #F04034;
@@ -32,9 +35,13 @@ body{
 	background-color: #333;
 }
 
-.col1{
-	background-color: #333;
-}
+
+.contacto{
+	color: white;
+   }
+
+  a.contacto:hover{color:white;}
+
 
 #navBottom{
 	width: 100%;
@@ -42,4 +49,11 @@ body{
 	bottom: 0px;
 	margin: 0px;
 	border-radius: 0px;
+	color: white;
+}
+
+#navBottom{
+	display: flex;
+    align-items: center;
+    justify-content: center;
 }
