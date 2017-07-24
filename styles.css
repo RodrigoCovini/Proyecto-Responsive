@@ -12,6 +12,7 @@ body{
 .pageTitle{
 
 	color: white;
+	font-size: 2em;
 }
 
 .pceroImg{
@@ -42,13 +43,6 @@ body{
   a.contacto:hover{color:white;}
 
 
-
-#navBottom{
-	display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .abajo{
 
 	width: 100%;
@@ -61,7 +55,34 @@ body{
 
 }
 
+.abajoDescargas{
+
+	width: 100%;
+	background-color: #222;
+	height: 50px;
+
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: fixed;
+    bottom: 0px;
+
+}
 .div2{
 	background-color: #56066C;
 	margin-top: 20px;
+}
+
+.phaserTitle{
+
+	color: white;
+	font-size: 1.4em;
+}
+
+.filaDescargar{
+
+	color: white;
+	margin-top: 30px;
+	font-size: 1.4em;
 }
