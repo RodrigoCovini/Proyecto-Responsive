@@ -7,11 +7,14 @@
 
 body{
 	background-color: #F04034;
+
 	
 }
 
 #bodyDescargas{
 	margin-bottom: 50px;
+
+
 }
 .pageTitle{
 
@@ -72,6 +75,8 @@ body{
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+
+
   
   
 
@@ -97,6 +102,7 @@ body{
 .botonDownload{
 
 	float: right;
+	width: 100px;
 }
 
 .botonGit{
@@ -116,4 +122,5 @@ body{
 
 .arcExist{
 	color: white;
+
 }
