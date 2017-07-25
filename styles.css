@@ -16,10 +16,16 @@ body{
 
 
 }
+
+#bodyAboutUS{
+
+	margin-bottom: 50px;
+}
 .pageTitle{
 
 	color: white;
 	font-size: 2em;
+	
 }
 
 .pceroImg{
@@ -123,4 +129,26 @@ body{
 .arcExist{
 	color: white;
 
+}
+
+#aboutUSJumbo{
+
+	background-color: #9F2626;
+	color: white;
+}
+
+#aboutUSDiv{
+
+	width: 100%;
+	
+	background-color: #9F2626;
+	border-radius: 6px;
+}
+
+.aboutUSContent{
+
+	word-wrap: break-word;
+	color: white;
+	font-size: 1.4em;
+	padding: 5px;
 }
