@@ -7,9 +7,12 @@
 
 body{
 	background-color: #F04034;
-	overflow: auto;
+	
 }
 
+#bodyDescargas{
+	margin-bottom: 50px;
+}
 .pageTitle{
 
 	color: white;
@@ -62,10 +65,13 @@ body{
     align-items: center;
     justify-content: center;
 
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
+ 	position: fixed;
+    height: 50px;
+    background-color: #222;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
   
   
 
